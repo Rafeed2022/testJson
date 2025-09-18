@@ -1,0 +1,113 @@
+<<<<<<< HEAD
+[
+  {
+    "id": 1,
+    "name": "سماعة بلوتوث X100",
+    "description": "سماعة صغيرة عالية الجودة مع بطارية تدوم حتى 12 ساعة.",
+    "price": "450 EGP",
+    "image": "https://images.unsplash.com/photo-1518441902114-7c9f9f4b6f6a?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=000000",
+    "whatsapp": "https://wa.me/201234567890?text=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%20%D8%A3%D8%B1%D8%BA%D9%88%20%D9%85%D9%86%20%D8%A3%D9%8A%20%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA%20%3A%20%D8%B3%D9%85%D8%A7%D8%B9%D8%A9%20X100"
+  },
+  {
+    "id": 2,
+    "name": "كفر هاتف جلدي",
+    "description": "كفر حماية أنيق للهاتف مصنوع من جلد صناعي مقاوم للخدش.",
+    "price": "120 EGP",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=000000",
+    "whatsapp": "https://wa.me/201234567891?text=%D8%A3%D8%B1%D8%BA%D9%88%20%D8%A7%D9%84%D9%83%D9%81%D8%A7%D8%A1%20%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81"
+  },
+  {
+    "id": 3,
+    "name": "شاحن سريع 30W",
+    "description": "شاحن قوي يدعم الشحن السريع لأجهزة متعددة.",
+    "price": "220 EGP",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=000000",
+    "whatsapp": "https://wa.me/201234567892?text=%D8%A3%D8%B1%D8%BA%D9%88%20%D8%A7%D9%84%D8%B4%D8%A7%D8%AD%D9%86%2030W"
+  },
+  {
+    "id": 4,
+    "name": "قلم ذكي للكتابة",
+    "description": "قلم رقمي يعمل مع الأجهزة اللوحية بتوافق عالي.",
+    "price": "680 EGP",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=000000",
+    "whatsapp": "https://wa.me/201234567893?text=%D8%A3%D9%87%D9%84%D9%83%20%D9%84%D9%84%D9%82%D9%84%D9%85%20%D8%A7%D9%84%D8%B0%D9%83%D9%8A"
+  },
+ {
+    "id": 5,
+    "name": "شاحن سريع 45000",
+    "description": "شاحن قوي يدعم الشحن السريع لأجهزة متعددة.",
+    "price": "220 EGP",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=000000",
+    "whatsapp": "https://wa.me/201234567892?text=%D8%A3%D8%B1%D8%BA%D9%88%20%D8%A7%D9%84%D8%B4%D8%A7%D8%AD%D9%86%2030W"
+  },
+  {
+    "id": 6,
+    "name": "قلم ذكي جدا جدا ",
+    "description": "قلم رقمي يعمل مع الأجهزة اللوحية بتوافق عالي.",
+    "price": "680 EGP",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=000000",
+    "whatsapp": "https://wa.me/201234567893?text=%D8%A3%D9%87%D9%84%D9%83%20%D9%84%D9%84%D9%82%D9%84%D9%85%20%D8%A7%D9%84%D8%B0%D9%83%D9%8A"
+  },
+  
+  {
+    "id": 7,
+    "name": "قلم ذكي للكتابة",
+    "description": "قلم رقمي يعمل مع الأجهزة اللوحية بتوافق عالي.",
+    "price": "680 EGP",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=000000",
+    "whatsapp": "https://wa.me/201234567893?text=%D8%A3%D9%87%D9%84%D9%83%20%D9%84%D9%84%D9%82%D9%84%D9%85%20%D8%A7%D9%84%D8%B0%D9%83%D9%8A"
+  },
+ {
+    "id": 8,
+    "name": "شاحن سريع 45000",
+    "description": "شاحن قوي يدعم الشحن السريع لأجهزة متعددة.",
+    "price": "220 EGP",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=000000",
+    "whatsapp": "https://wa.me/201234567892?text=%D8%A3%D8%B1%D8%BA%D9%88%20%D8%A7%D9%84%D8%B4%D8%A7%D8%AD%D9%86%2030W"
+  },
+  {
+    "id": 9,
+    "name": "قلم ذكي جدا جدا ",
+    "description": "قلم رقمي يعمل مع الأجهزة اللوحية بتوافق عالي.",
+    "price": "680 EGP",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=000000",
+    "whatsapp": "https://wa.me/201234567893?text=%D8%A3%D9%87%D9%84%D9%83%20%D9%84%D9%84%D9%82%D9%84%D9%85%20%D8%A7%D9%84%D8%B0%D9%83%D9%8A"
+  }
+]
+
+=======
+[
+  {
+    "id": 1,
+    "name": "سماعة بلوتوث X100",
+    "description": "سماعة صغيرة عالية الجودة مع بطارية تدوم حتى 12 ساعة.",
+    "price": "450 EGP",
+    "image": "https://images.unsplash.com/photo-1518441902114-7c9f9f4b6f6a?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=000000",
+    "whatsapp": "https://wa.me/201234567890?text=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%20%D8%A3%D8%B1%D8%BA%D9%88%20%D9%85%D9%86%20%D8%A3%D9%8A%20%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA%20%3A%20%D8%B3%D9%85%D8%A7%D8%B9%D8%A9%20X100"
+  },
+  {
+    "id": 2,
+    "name": "كفر هاتف جلدي",
+    "description": "كفر حماية أنيق للهاتف مصنوع من جلد صناعي مقاوم للخدش.",
+    "price": "120 EGP",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=000000",
+    "whatsapp": "https://wa.me/201234567891?text=%D8%A3%D8%B1%D8%BA%D9%88%20%D8%A7%D9%84%D9%83%D9%81%D8%A7%D8%A1%20%D8%A7%D9%84%D9%87%D8%A7%D8%AA%D9%81"
+  },
+  {
+    "id": 3,
+    "name": "شاحن سريع 30W",
+    "description": "شاحن قوي يدعم الشحن السريع لأجهزة متعددة.",
+    "price": "220 EGP",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=000000",
+    "whatsapp": "https://wa.me/201234567892?text=%D8%A3%D8%B1%D8%BA%D9%88%20%D8%A7%D9%84%D8%B4%D8%A7%D8%AD%D9%86%2030W"
+  },
+  {
+    "id": 4,
+    "name": "قلم ذكي للكتابة",
+    "description": "قلم رقمي يعمل مع الأجهزة اللوحية بتوافق عالي.",
+    "price": "680 EGP",
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1200&auto=format&fit=crop&ixlib=rb-4.0.3&s=000000",
+    "whatsapp": "https://wa.me/201234567893?text=%D8%A3%D9%87%D9%84%D9%83%20%D9%84%D9%84%D9%82%D9%84%D9%85%20%D8%A7%D9%84%D8%B0%D9%83%D9%8A"
+  }
+]
+>>>>>>> 39e484c (Initial commit: onPageWeb single-file product page + mock JSON + README)
